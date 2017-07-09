@@ -1,0 +1,18 @@
+/* Bootstrap-Änderungen */
+.container { max-width: 970px; }
+
+/* Allgemeine Definitionen */
+.k-center { margin:auto;  }
+.k-bold { font-weight: bold; }
+
+/* Navigationsbereich */
+.k-navigation ul { list-style-type: none; padding: 0px; margin: 0px; margin: 7px 0 10px 0;}
+.k-navigation li { display: inline; margin-right: 20px; background-color: #EEF312; line-height: 3.0em; /* border: 2px solid #BCC00E; */ padding: 10px 20px 10px 20px; border-radius: 3px; box-shadow: 3px 3px 3px #AAA; }
+.k-navigation li:hover {background-color: #fbff00; }
+.k-navigation a { text-decoration: none; color: #000; }
+
+
+/* Top-Story */
+.k-topstory .jumbotron.k-bgcolor-lightgreen  { background-color: #F4F5CA; }
+.k-topstory .jumbotron.k-bgcolor-green { background-color: #BCC00E;}
+
